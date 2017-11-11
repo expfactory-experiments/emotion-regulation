@@ -1,0 +1,38 @@
+.leftBox {
+  width:30vw;
+  height: 20vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-100%,-60%);
+}
+
+.rightBox {
+  width:30vw;
+  height: 20vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(0%,-60%);
+}
+
+.imageBox {
+  width: 30vw;
+  height: 30vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:0%;
+  transform: translate(-50%,-70%);
+}
+
+.image {
+  display: block;
+  height: 30vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%); 
+}
