@@ -112,7 +112,7 @@ var choices = [37, 39]
 
 var base_path = 'images/'
 var low_intensity_stims = ['1270.JPG', '1301.JPG', '2278.JPG', '2312.JPG', '2490.JPG', '2691.JPG',
-  '2700.JPG', '6010.JPG', '6020.JPG', '6190.JPG', '6241.JPG', '6836.JPG', '7300.JPG', '9101.JPG',
+  '2700.JPG', '6010.JPG', '6020.JPG', '6190.JPG', '6241.JPG', '6836.JPG', '7360.JPG', '9101.JPG',
   '9102.JPG', '9120.JPG', '9140.JPG', '9160.JPG', '9171.JPG', '9440.JPG', '9470.JPG'
 ]
 var low_intensity_stims = jsPsych.randomization.shuffle(low_intensity_stims)
